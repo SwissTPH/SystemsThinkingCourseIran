@@ -8,6 +8,5 @@ The multi-day programme combined lectures, facilitated group work and panel disc
 
 ## Report
 
-`Applied_Systems_Thinking_Course_Report_2021.pdf`
-
+[Download the course report](Report.pdf)
 **Citation:** Tavakkoli M, Cobos D. *Capacity Building through Applied Systems Thinking for Health Systems Managers and Researchers in Iran: Virtual Course Report.* Swiss TPH; 2021.
